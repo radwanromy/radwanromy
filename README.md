@@ -1,4 +1,4 @@
-## Hi I'm A. S. M. Radwan <img src="https://c.tenor.com/P62Qp5f_y64AAAAj/ai-researching.gif" width="28px" alt="hi">
+## Hi I'm A. S. M. Radwan <img src="http://octodex.github.com/images/daftpunktocat-thomas.gif" width="28px" alt="hi">
 I'm a Full stack Website Developer 🚀
 
 :mailbox: Reach me out!
