@@ -28,7 +28,7 @@ I'm a Full Stack Website Developer 🚀
 <br>
 
 
-<h2>📜 CARRER & APPLICATION INFORMATION</h2>
+<h3>📜 CARRER & APPLICATION INFORMATION</h3>
       
 ✴️ Looking For : Entry Level Job & Internship
 ✴️ Preferred Job Category : Software Engineer /Android Developer /Website Developer /Front–End Developer
@@ -53,7 +53,7 @@ I'm a Full Stack Website Developer 🚀
 <p>✴️EXAM PASSED: SSC (SECONDARY SCHOOL CERTIFICATE) </p>
 <p> ✴️FROM SCIENCE GROUP WITH GPA 5.00 (GOLDEN)
 
-<h3>👩🏽‍🚀 SPECIALIZATION & PROJECTS</h3>
+ <h3>👩🏽‍🚀 SPECIALIZATION & PROJECTS</h3>
 1. Library Management Software (JAVA & SQL)
 Banknotes Authentication Classification (Python & Jupiter :: Anaconda)</p>
  <p>2. Sheba Publications (Database Project, Oracle ,MySQL)</p>
