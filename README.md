@@ -6,11 +6,12 @@
 
  [![Facebook Badge](https://img.shields.io/badge/-@radwan.romy.100-1877f2?style=flat&labelColor=1877f2&logo=facebook&logoColor=white&link=https://www.facebook.com/radwan.romy.100/)](https://www.facebook.com/radwan.romy.100/) [![Linkedin Badge](https://img.shields.io/badge/-asmradwan-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white&link=https://bd.linkedin.com/in/a-s-m-radwan-316597155/)](https://bd.linkedin.com/in/a-s-m-radwan-316597155/) [![Insta Badge](https://img.shields.io/badge/-@radwanromy-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white&link=https://www.instagram.com/radwanromy/)](https://www.instagram.com/radwanromy/) [![Insta2 Badge](https://img.shields.io/badge/-@romyradwan-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white&link=https://www.instagram.com/romyradwan/)](https://www.instagram.com/romyradwan/) [![Mail Badge](https://img.shields.io/badge/-asmradwan-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:radwanromy@gmail.com) [![Twitter Badge](https://img.shields.io/badge/-@RadwanRomy4-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/RadwanRomy4)](https://twitter.com/RadwanRomy4)
 <br>
-[![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=radwanromy&layout=compact)](https://github.com/radwanromy)
-
+[![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=radwanromy&layout=compact&count=11)](https://github.com/radwanromy)
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=radwanromy&count_private=true&show_icons=true&hide=prs)](https://github.com/radwanromy)
 #### Profile Visits 
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=radwanromy)
+![ThanksYou](https://img.shields.io/badge/Thank_You_For_Spending_a_Moment_On_My_Profile,_Happy_Coding,_All_The_Very_Best-dodgerblue.svg?style=for-the-badge)
 <details>
 <summary>
   Expend this to know some more about me
