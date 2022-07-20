@@ -1,4 +1,4 @@
-<img src="https://user-images.githubusercontent.com/50805604/127393131-d627961b-9038-4cc1-b9c5-8e32e5fd4fc1.gif" alt="side Image" align="center" width="2000" height="auto" />
+<img src="https://user-images.githubusercontent.com/50805604/127393131-d627961b-9038-4cc1-b9c5-8e32e5fd4fc1.gif" alt="side Image" align="center" width="1000" height="auto" />
 
 
 
@@ -42,7 +42,7 @@
         <p><img src="https://github.com/radwanromy/Three.js-WebGL-3D-website-project-By-A_S_M_Radwan/blob/master/aiub.png" class="w3-round" ></p>
          <p>🎓AMERICAN INTERNATIONAL UNIVERSITY BANGLADESH (AIUB), DHAKA</p>
 <p>✴️PROGRAM : BACHELOR OF SCIENCE IN COMPUTER SCIENCE & ENGINEERING </p>
-<p> ✴️STUDENT ID:18-36384-1 COMPLETED: 131</p>
+<p> ✴️STUDENT ID:18-36384-1 COMPLETED: 148</p>
 
 <p><img src="https://github.com/radwanromy/Three.js-WebGL-3D-website-project-By-A_S_M_Radwan/blob/master/sdfs.jpg" class="w3-round" ></p>
          <p>🎓GOVT. A. H. COLLEGE, BOGURA (GOVT. AHC, BOGURA) (2015-2017)</p>
