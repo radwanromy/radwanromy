@@ -20,7 +20,7 @@
 <br >
 
 #### 
-- :paperclip: [My Resume/CV](https://github.com/radwanromy/Three.js-WebGL-3D-website-project-By-A_S_M_Radwan/blob/master/Resume%202021%20ASM_RADWAN.pdf)
+- :paperclip: [My Resume/CV](https://radwanromy.github.io/Japanese-Portfolio/assets/pdf/A.%20S.%20M.%20Radwan.pdf)
 - :email: radwanromy@gmail.com
 
 
