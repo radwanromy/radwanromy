@@ -20,10 +20,10 @@
 <br >
 
 #### 
-- :paperclip: [My Resume/CV](https://radwanromy.github.io/Japanese-Portfolio/assets/pdf/A.%20S.%20M.%20Radwan.pdf)
+<!-- - :paperclip: [My Resume/CV](https://radwanromy.github.io/Japanese-Portfolio/assets/pdf/A.%20S.%20M.%20Radwan.pdf) -->
 - :email: radwanromy@gmail.com
 
-
+<!-- 
 #### Github Stats
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=radwanromy&count_private=true&show_icons=true&theme=tokyonight&hide=contribs,prs)](https://github.com/radwanromy)
 <br>
@@ -149,5 +149,6 @@ RESEARCH UNIVERSITY HIG HER SCHOOL OF ECONOMICS - ALGORITHMIC TOOLBOX [CERTIFIED
  </p>
  <p>🏴Cyber Gaming Fest 2019 by ACC at AIUB
  <br> <h2>✍️ SIGNATURE</h2> <p><img src="https://github.com/radwanromy/Three.js-WebGL-3D-website-project-By-A_S_M_Radwan/blob/master/s.jpg" class="w3-round" ></p>
-</details>
 
+ -->
+</details>
