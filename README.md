@@ -8,6 +8,7 @@
 <br>
 [![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=radwanromy&layout=compact&count=11)](https://github.com/radwanromy)
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=radwanromy&count_private=true&show_icons=true&hide=prs)](https://github.com/radwanromy)
+![](./profile-3d-contrib/profile-green-animate.svg)
 #### Profile Visits 
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=radwanromy)
