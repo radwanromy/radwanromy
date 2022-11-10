@@ -1,2 +1,0 @@
-     - uses: actions/checkout@v2
-      - uses: yoshi389111/github-profile-3d-contrib@0.5.0
