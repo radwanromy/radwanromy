@@ -1,6 +1,6 @@
 <img src="https://user-images.githubusercontent.com/50805604/127393131-d627961b-9038-4cc1-b9c5-8e32e5fd4fc1.gif" alt="side Image" align="center" width="100%" height="auto" />
 
-
+![](./profile-3d-contrib/profile-green-animate.svg)
 
 :mailbox: Reach me out! <img src="https://camo.githubusercontent.com/ccb21bffe61693515d7533961302196735cbca126f06639d66d1697e8e82e866/687474703a2f2f6f63746f6465782e6769746875622e636f6d2f696d616765732f6461667470756e6b746f6361742d74686f6d61732e676966"  width="35px" alt="hi">
 
@@ -8,7 +8,7 @@
 <br>
 [![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=radwanromy&layout=compact&count=11)](https://github.com/radwanromy)
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=radwanromy&count_private=true&show_icons=true&hide=prs)](https://github.com/radwanromy)
-![](./profile-3d-contrib/profile-green-animate.svg)
+
 #### Profile Visits 
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=radwanromy)
