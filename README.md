@@ -21,7 +21,8 @@
 
 #### 
 <!-- - :paperclip: [My Resume/CV](https://radwanromy.github.io/Japanese-Portfolio/assets/pdf/A.%20S.%20M.%20Radwan.pdf) -->
-- :email: radwanromy@gmail.com<a href="https://stardev.io/developers/radwanromy"><img alt="Check out radwanromy&apos;s profile on stardev.io" src="https://stardev.io/developers/radwanromy/badge/languages/country.svg" /></a>
+- :email: radwanromy@gmail.com <br> <a href="https://stardev.io/developers/radwanromy"><img alt="Check out radwanromy&apos;s profile on stardev.io" src="https://stardev.io/developers/radwanromy/badge/languages/country.svg" /></a>
+![](https://leetcard.jacoblin.cool/radwanromy?theme=unicorn) 
 
 <!-- 
 #### Github Stats
