@@ -30,8 +30,6 @@
 
 ### 📈 More
 
-[![Languages](https://stardev.io/developers/radwanromy/badge/languages/country.svg)](https://stardev.io/developers/radwanromy)
-
 ![LeetCode stats](https://leetcard.jacoblin.cool/radwanromy?theme=unicorn)
 
 ![Thanks](https://img.shields.io/badge/Thanks_for_visiting_my_profile-dodgerblue.svg?style=for-the-badge)
