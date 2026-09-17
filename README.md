@@ -16,10 +16,6 @@
 
 ### 📊 GitHub Stats
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=radwanromy&count_private=true&show_icons=true&hide=prs&theme=tokyonight)
-
-![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=radwanromy&layout=compact&count=10&theme=tokyonight)
-
 ![3D contribution graph](./profile-3d-contrib/profile-green-animate.svg)
 
 ### 🚀 Featured Projects
